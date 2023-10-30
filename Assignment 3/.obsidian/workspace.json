@@ -11,24 +11,71 @@
             "id": "6324d5e0b1cf7b49",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "543d5d33039653fc",
+            "id": "b961d90890b03cb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "888e2198c68b6825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Short Term Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef259890704392e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Long Term Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25e48ed4f4998cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consolidation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4062b55554243153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recall.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +198,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "543d5d33039653fc",
+  "active": "6324d5e0b1cf7b49",
   "lastOpenFiles": [
+    "Recall.md",
+    "Consolidation.md",
+    "Long Term Memory.md",
+    "Short Term Memory.md",
+    "Memory.md",
     "Test.md"
   ]
 }
