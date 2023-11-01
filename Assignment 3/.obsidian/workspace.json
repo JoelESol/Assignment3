@@ -11,8 +11,12 @@
             "id": "6324d5e0b1cf7b49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Memory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -125,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b907791c5fa0aa22",
@@ -141,13 +145,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -157,8 +162,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Memory.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -178,10 +184,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Memory.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,11 +209,13 @@
   },
   "active": "6324d5e0b1cf7b49",
   "lastOpenFiles": [
+    "Reconsolidation.md",
+    "Memory.md",
     "Recall.md",
+    "[Recall.md",
     "Consolidation.md",
     "Long Term Memory.md",
     "Short Term Memory.md",
-    "Memory.md",
     "Test.md"
   ]
 }
