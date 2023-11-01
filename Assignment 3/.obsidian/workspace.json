@@ -11,12 +11,24 @@
             "id": "6324d5e0b1cf7b49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "720c83baae1f8b74",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dac6e8c58d7f19c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -66,20 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4062b55554243153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Memory.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -207,10 +204,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6324d5e0b1cf7b49",
+  "active": "dac6e8c58d7f19c0",
   "lastOpenFiles": [
-    "Reconsolidation.md",
+    "Reflections/Reflections.md",
+    "Reflections/Joel Sol V01012197.md",
+    "Reflections",
     "Memory.md",
+    "Reconsolidation.md",
     "Recall.md",
     "[Recall.md",
     "Consolidation.md",
