@@ -23,12 +23,8 @@
             "id": "3374bcd6266a01ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Memory.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,20 +154,23 @@
   },
   "active": "3374bcd6266a01ef",
   "lastOpenFiles": [
+    "Long Term Memory.md",
+    "Implicit Memory.md",
+    "Explicit Memory.md",
+    "Alzheimer's Research & Therapy.md",
+    "Memory.md",
+    "Reflections/Joel Sol V01012197.md",
+    "Consolidation.md",
+    "Reconsolidation.md",
+    "Short Term Memory.md",
     "Parts of the Brain used for Memory.md",
     "Pasted image 20231101151033.png",
-    "Memory.md",
+    "1.md",
     "Parts of the Brain.md",
-    "Alzheimer's Research & Therapy.md",
     "Reflections/Reflections.md",
-    "Reflections/Joel Sol V01012197.md",
     "Reflections",
-    "Reconsolidation.md",
     "Recall.md",
     "[Recall.md",
-    "Consolidation.md",
-    "Long Term Memory.md",
-    "Short Term Memory.md",
     "Test.md"
   ]
 }
