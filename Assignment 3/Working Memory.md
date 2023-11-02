@@ -1,6 +1,5 @@
 According to Baddeley, working memory describes [[Short Term Memory]] as a system with multiple components. It consists of the [[Phonological Loop]], the visuospatial sketchpad and the central executive.
 ### Central Executive
-
 ### Phonological Loop
 
 ### Visuospatial Sketchpad

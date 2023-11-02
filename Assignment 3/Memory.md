@@ -8,7 +8,7 @@ Memory is defined as the ability to recall information and can be categorized in
 
 Memories are stored across different areas of the brain; [[Parts of the Brain used for Memory]]. The hippocampus logs the components of a memory, while the amygdala marks them as important or emotionally powerful. These components are then stored in the cerebral cortex. When retrieving a memory, the frontal lobes focus attention and pull the memory pieces from the cerebral cortex. This involves coordinating data from various brain regions to reconstruct the memory, whether it's visual, linguistic, or auditory information, thus forming a unique neuronal pattern that is reactivated during remembering.
 
-There are several different subcategories of memory such as [[Short Term Memory]], [[Long Term Memory]], and  [[Phonological Loop]].
+There are several different subcategories of memory such as [[Short Term Memory]], [[Long Term Memory]], and  [[Phonological Loop]] as well as different types of memories such as [[Working Memory]], [[Implicit Memory]], [[Explicit Memory]].
 
 References:
 Sridhar, S., Khamaj, A., & Asthana, M. K. (2023). Cognitive neuroscience perspective on memory: overview and summary. _Frontiers in human neuroscience_, _17_, 1217093. https://doi.org/10.3389/fnhum.2023.1217093

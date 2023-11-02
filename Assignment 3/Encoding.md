@@ -1,0 +1,1 @@
+Encoding is the process of converting 
