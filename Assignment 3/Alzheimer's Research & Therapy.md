@@ -15,6 +15,6 @@ The review examined cognitive-enhancing drugs and herbal extracts, such as Panax
 Conclusions:
 The research on cognitive enhancement techniques for the SCD population shows promise, particularly for CMPT. While more research is needed on drugs and NIBS, CMPT interventions, including mindfulness meditation, are recommended due to their harmlessness, cost-effectiveness, and ease of implementation.
 
-[[Pasted image alz.png]]
+[[image alz.png]]
 
 References：Andrea Brioschi Guevara, Melanie Bieler, Daniele Altomare, Marcelo Berthier, Chantal Csajka, Sophie Dautricourt, Jean-François Démonet, Alessandra Dodich, Giovanni B. Frisoni, Carlo Miniussi, José Luis Molinuevo, Federica Ribaldi, Philip Scheltens & Gael Chételat. Alzheimer's Research & Therapy volume 13, Article number: 172 (2021). https://alzres.biomedcentral.com/articles/10.1186/s13195-021-00844-1
