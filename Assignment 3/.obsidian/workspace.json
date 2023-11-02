@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6324d5e0b1cf7b49",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "720c83baae1f8b74",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "dac6e8c58d7f19c0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "b961d90890b03cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "888e2198c68b6825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Short Term Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef259890704392e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,19 +20,14 @@
             }
           },
           {
-            "id": "25e48ed4f4998cdc",
+            "id": "3374bcd6266a01ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consolidation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Long Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Long Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Long Term Memory.md"
+              }
             }
           }
         ],
@@ -204,18 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dac6e8c58d7f19c0",
+  "active": "b961d90890b03cb1",
   "lastOpenFiles": [
-    "Reflections/Reflections.md",
-    "Reflections/Joel Sol V01012197.md",
-    "Reflections",
+    "Implicit Memory.md",
+    "Explicit Memory.md",
+    "Long Term Memory.md",
     "Memory.md",
+    "Alzheimer's Research & Therapy.md",
+    "Reflections/Joel Sol V01012197.md",
+    "Consolidation.md",
     "Reconsolidation.md",
+    "Short Term Memory.md",
+    "Parts of the Brain used for Memory.md",
+    "Pasted image 20231101151033.png",
+    "1.md",
+    "Parts of the Brain.md",
+    "Reflections/Reflections.md",
+    "Reflections",
     "Recall.md",
     "[Recall.md",
-    "Consolidation.md",
-    "Long Term Memory.md",
-    "Short Term Memory.md",
     "Test.md"
   ]
 }
