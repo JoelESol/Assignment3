@@ -11,11 +11,52 @@
             "id": "3374bcd6266a01ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Encoding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab1af2e8153e313c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f653a23c3ab32026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phonological Loop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e428c15d700fda7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working Memory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#References",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Phonological Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Phonological Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Phonological Loop.md"
+              }
             }
           }
         ],
@@ -139,36 +185,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3374bcd6266a01ef",
+  "active": "f653a23c3ab32026",
   "lastOpenFiles": [
-    "Long Term Memory.md",
-    "Nootropics.md",
+    "Recovery.md",
+    "Encoding.md",
+    "Phonological Loop.md",
+    "Working Memory.md",
+    "Parts of the Brain used for Memory.md",
+    "Reconsolidation.md",
     "Piracetam.md",
+    "Pasted image 20231101151033.png",
+    "Nootropics.md",
     "Mnemonics.md",
+    "Memory.md",
+    "Long Term Memory.md",
+    "Implicit Memory.md",
     "External Aids.md",
+    "Explicit Memory.md",
+    "Consolidation.md",
     "Caffeine.md",
+    "Alzheimer's Research & Therapy.md",
+    "Reflections/Reflections.md",
     "Short Term Memory/Short Term Memory.md",
     "Short Term Memory/Rehearsal.md",
     "Short Term Memory/Mnemonics.md",
     "Short Term Memory/Method of Loci.jpg",
     "Short Term Memory/Chunking.md",
-    "Alzheimer's Research & Therapy.md",
-    "Consolidation.md",
-    "Explicit Memory.md",
-    "Implicit Memory.md",
-    "Memory.md",
-    "Parts of the Brain used for Memory.md",
-    "Working Memory.md",
-    "Reconsolidation.md",
     "Short Term Memory",
-    "Pasted image 20231101151033.png",
     "Parts of the Brain.md",
-    "Reflections/Reflections.md",
     "Reflections/Joel Sol V01012197.md",
     "Reflections",
-    "Recall.md",
-    "[Recall.md",
-    "Short Term Memory.md",
-    "Test.md"
+    "Recall.md"
   ]
 }

@@ -9,7 +9,7 @@ CMPT interventions aim to impact cognition through various methods like cognitiv
 Non-Invasive Brain Stimulation:
 NIBS techniques like repetitive transcranial magnetic stimulation (rTMS) and transcranial direct current stimulation (tDCS) modulate brain activity and can influence cognition. While there's evidence suggesting that NIBS combined with cognitive training can enhance cognitive function in the aging population, high variability across studies makes it challenging to offer consistent recommendations. The potential of NIBS is promising, but more well-designed, comprehensive trials are needed to ascertain its efficacy.
 
-Drugs:
+Drugs: See also related[[Nootropics]]
 The review examined cognitive-enhancing drugs and herbal extracts, such as Panax ginseng, Gingko biloba, and Bacopa monnieri, for their impact on cognition in SCD individuals. Based on the evidence, there was no compelling reason to recommend these drugs or extracts for cognitive enhancement in SCD or worried-well individuals. Any potential effects from herbal extracts are subtle and vary based on several factors.
 
 Conclusions:
