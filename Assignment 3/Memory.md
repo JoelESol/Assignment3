@@ -4,7 +4,8 @@ There are several different subprocesses that make up the cognitive process of  
 
 There are several different subcategories of memory such as [[Short Term Memory]], [[Long Term Memory]], and  [[Phonological Loop]].
 
-There are also various different types of memories involving different portions of the brain such as [[Working Memory]], [[Declarative Memory]]-Hippocampus, and [[Non-Declarative Memory]]-Amygdala.
+Memory doesn't just happen in a single portion of the brain
+[[Parts of the Brain used for Memory]]
 
 References:
 Sridhar, S., Khamaj, A., & Asthana, M. K. (2023). Cognitive neuroscience perspective on memory: overview and summary. _Frontiers in human neuroscience_, _17_, 1217093. https://doi.org/10.3389/fnhum.2023.1217093
