@@ -8,26 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b961d90890b03cb1",
+            "id": "4462f193d099d38c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Long Term Memory.md",
+                "file": "Short Term Memory/Short Term Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3374bcd6266a01ef",
+            "id": "bfdb083ba01c7975",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Short Term Memory/Rehearsal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f096eb3fe7de097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Short Term Memory/Short Term Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6a073873b0d4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parts of the Brain used for Memory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Long Term Memory.md",
+                "file": "Short Term Memory/Short Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Long Term Memory.md",
+                "file": "Short Term Memory/Short Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Long Term Memory.md"
+                "file": "Short Term Memory/Short Term Memory.md"
               }
             }
           }
@@ -155,22 +184,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b961d90890b03cb1",
+  "active": "1f096eb3fe7de097",
   "lastOpenFiles": [
-    "Implicit Memory.md",
-    "Explicit Memory.md",
-    "Long Term Memory.md",
-    "Memory.md",
     "Alzheimer's Research & Therapy.md",
-    "Reflections/Joel Sol V01012197.md",
     "Consolidation.md",
-    "Reconsolidation.md",
-    "Short Term Memory.md",
-    "Parts of the Brain used for Memory.md",
+    "Short Term Memory/Short Term Memory.md",
     "Pasted image 20231101151033.png",
-    "1.md",
-    "Parts of the Brain.md",
+    "Phonological Loop.md",
+    "Working Memory.md",
+    "Reconsolidation.md",
+    "Short Term Memory/Chunking.md",
+    "Short Term Memory/Rehearsal.md",
+    "Short Term Memory/Mnemonics.md",
+    "Short Term Memory/Method of Loci.jpg",
+    "Memory.md",
+    "Short Term Memory.md",
+    "Long Term Memory.md",
+    "Explicit Memory.md",
+    "Implicit Memory.md",
+    "Parts of the Brain used for Memory.md",
+    "Reflections/Joel Sol V01012197.md",
     "Reflections/Reflections.md",
+    "Short Term Memory",
+    "Declarative Memory.md",
+    "Memory Palace.md",
+    "long-term memory.md",
     "Reflections",
     "Recall.md",
     "[Recall.md",

@@ -1,8 +1,9 @@
 Short-term memory, also known as primary or active memory, refers to the cognitive system responsible for storing small amounts of information for a short time. For example, remembering a person's phone number or address. Short-term memory has a limited capacity and duration of around 7 items (Miller's Law) and 30 seconds, respectively. It is also highly susceptible to interference and decay causing most information to be lost before being transferred to [[Long Term Memory]].
 
-Short-term memory is also associated with [[Working Memory]]. However, working memory refers more to the manipulation of information in short-term memory, usually during decision making, or problem solving.
+Short-term memory is often associated with [[Working Memory]]. However, working memory refers more to the manipulation of information in short-term memory, usually during decision making, or problem solving, and has a larger expanded model as proposed by Baddeley.
 
-Systems to improve memory retention or transfer of memory from short-term to long-term:
+### Consolidation
+Below are some systems to improve memory retention or transfer of memory from short-term to long-term:
 - [[Rehearsal]]
 - [[Chunking]]
 - [[Mnemonics]]

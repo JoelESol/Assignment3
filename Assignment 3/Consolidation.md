@@ -1,0 +1,1 @@
+Memory consolidation is the process of transferring [[Short Term Memory|short-term memories]] into [[Long Term Memory|long-term memories]]. Short-term memory is very limited and can only store information for about 30 seconds before being forgotten, so important information must be moved to long-term through [[Short Term Memory#Consolidation|consolidation]].
