@@ -1,4 +1,4 @@
-Explicit memory is further divided into two subtypes: episodic and semantic. Episodic memory is about personal experiences and specific events, like remembering your last vacation. Semantic memory involves facts and general knowledge about the world, such as knowing how to solve a math problem by remembering a formula.
+Explicit memory is a subtype of [[Long Term Memory]] and is further divided into two subtypes: episodic and semantic. Episodic memory is about personal experiences and specific events, like remembering your last vacation. Semantic memory involves facts and general knowledge about the world, such as knowing how to solve a math problem by remembering a formula.
 
 ---
 ### References

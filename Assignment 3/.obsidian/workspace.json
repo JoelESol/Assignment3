@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory.md",
+                "file": "Long Term Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Long Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Long Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Long Term Memory.md"
+              }
             }
           }
         ],
@@ -152,13 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3374bcd6266a01ef",
+  "active": "b961d90890b03cb1",
   "lastOpenFiles": [
-    "Long Term Memory.md",
     "Implicit Memory.md",
     "Explicit Memory.md",
-    "Alzheimer's Research & Therapy.md",
+    "Long Term Memory.md",
     "Memory.md",
+    "Alzheimer's Research & Therapy.md",
     "Reflections/Joel Sol V01012197.md",
     "Consolidation.md",
     "Reconsolidation.md",
