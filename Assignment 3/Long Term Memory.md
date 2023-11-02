@@ -12,7 +12,7 @@ The process of creating long-term memories is not instantaneous. It involves the
 
 ### Cognitive Augmentation and Memory Enhancement
 
-Some cognitive augmentation systems try to enhance [[Memory]] function. Some of these systems can include digital tools like memory apps, which use techniques like spaced repetition to improve an individual’s ability to retain information. Other systems can also be more complex, like AI-powered tools that can adapt to people’s learning styles [4].
+Some cognitive augmentation systems try to enhance [[Memory]] function. Some of these systems can include digital tools like memory apps, which use techniques like spaced repetition to improve an individual’s ability to retain information. Other systems can also be more complex, like AI-powered tools that can adapt to people’s learning styles [4]. [[Nootropics]], [[Mnemonics]], and [[External Aids]] are examples of systems and tools for memory enhancement.
 #### 4.1 Technology as a Cognitive Extension
 
 A lot of modern technology acts as an extension to our LTM. Tools such as Search engines, databases, and smartphones are sometimes used as an external storage system, allowing people to dump and retrieve information whenever. This interaction between human memory and technology is a form of cognitive augmentation that builds upon our natural capabilities [4].
