@@ -11,8 +11,12 @@
             "id": "d1cffd7e8aa22215",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Phonological Loop.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Phonological Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Phonological Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Phonological Loop.md"
+              }
             }
           }
         ],
@@ -141,13 +149,18 @@
   },
   "active": "d1cffd7e8aa22215",
   "lastOpenFiles": [
-    "Implicit Memory.md",
+    "Encoding.md",
     "Explicit Memory.md",
+    "Consolidation.md",
+    "Caffeine.md",
+    "Alzheimer's Research & Therapy.md",
+    "alz.png",
+    "Mnemonics.md",
+    "Implicit Memory.md",
     "External Aids.md",
     "Working Memory.md",
     "Memory.md",
     "Long Term Memory.md",
-    "Mnemonics.md",
     "Nootropics.md",
     "Parts of the Brain used for Memory.md",
     "Short Term Memory/Rehearsal.md",
@@ -156,13 +169,9 @@
     "Phonological Loop.md",
     "Short Term Memory/Short Term Memory.md",
     "Pasted image 20231102160142.png",
-    "Encoding.md",
     "Reconsolidation.md",
     "Piracetam.md",
     "Pasted image 20231101151033.png",
-    "Consolidation.md",
-    "Caffeine.md",
-    "Alzheimer's Research & Therapy.md",
     "Reflections/Reflections.md",
     "Short Term Memory/Method of Loci.jpg",
     "Short Term Memory/Chunking.md",
