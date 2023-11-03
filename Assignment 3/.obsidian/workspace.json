@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phonological Loop.md",
+                "file": "Encoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phonological Loop.md",
+                "file": "Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phonological Loop.md",
+                "file": "Encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phonological Loop.md"
+                "file": "Encoding.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "d1cffd7e8aa22215",
   "lastOpenFiles": [
+    "Phonological Loop.md",
     "Encoding.md",
     "Explicit Memory.md",
     "Consolidation.md",
@@ -166,7 +167,6 @@
     "Short Term Memory/Rehearsal.md",
     "Short Term Memory/Mnemonics.md",
     "Recovery.md",
-    "Phonological Loop.md",
     "Short Term Memory/Short Term Memory.md",
     "Pasted image 20231102160142.png",
     "Reconsolidation.md",
