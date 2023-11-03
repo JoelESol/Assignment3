@@ -1,4 +1,4 @@
-Recovery or recall, is the process of accessing and getting stored memories. This is typically caused by external sensory or internally generated cues as well as stored memory traces called engrams. These cues can be a specific smell that brings up a childhood memory,
+Recovery or recall, is the process of accessing and getting stored memories. This is typically caused by external sensory or internally generated cues as well as stored memory traces called engrams. These cues can be a specific smell that brings up a childhood memory that were encoded with that specific memory. Engrams are a physical and biochemical change in the brain associated with a memory. This forms a unique signature of a memory trace. When you retrieve that memory over and over again specific synaptic connections are strengthened through a process called long-term potentiation. As an analogy when you create a memory its like walking and creating footprints in the snow and when you retrieve it, you re-step through that same path you walked. The same neural pathways and connections that were formed along with that memory are retrieved as well.
 
 References:
 
