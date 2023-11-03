@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory.md",
+                "file": "Short Term Memory/Short Term Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory.md",
+                "file": "Short Term Memory/Short Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory.md",
+                "file": "Short Term Memory/Short Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory.md"
+                "file": "Short Term Memory/Short Term Memory.md"
               }
             }
           }
@@ -149,19 +149,21 @@
   },
   "active": "139a6c210eb0603d",
   "lastOpenFiles": [
-    "Consolidation.md",
-    "Working Memory/Episodic Buffer.md",
+    "Short Term Memory/Working Memory/Working Memory.md",
+    "Short Term Memory/Working Memory/Visuospatial Sketchpad.md",
+    "Short Term Memory/Working Memory/Phonological Loop.md",
+    "Short Term Memory/Working Memory/Episodic Buffer.md",
+    "Short Term Memory/Working Memory/Central Executive.md",
+    "Consolidation/Chunking.md",
+    "Consolidation/Rehearsal.md",
+    "Consolidation/Consolidation.md",
     "Explicit Memory.md",
+    "Short Term Memory/Short Term Memory.md",
+    "Consolidation",
+    "Memory.md",
     "Implicit Memory.md",
     "External Aids.md",
-    "Short Term Memory/Chunking.md",
     "Parts of the Brain used for Memory.md",
-    "Short Term Memory/Short Term Memory.md",
-    "Short Term Memory/Rehearsal.md",
-    "Working Memory/Central Executive.md",
-    "Working Memory/Phonological Loop.md",
-    "Working Memory/Visuospatial Sketchpad.md",
-    "Working Memory/Working Memory.md",
     "Images/alz.png",
     "Images/Pasted image 20231101151033.png",
     "Images/Pasted image 20231102160142.png",
@@ -171,13 +173,12 @@
     "Caffeine.md",
     "Encoding.md",
     "Long Term Memory.md",
-    "Memory.md",
     "Mnemonics.md",
     "Nootropics.md",
     "Recovery.md",
     "Reconsolidation.md",
     "Piracetam.md",
-    "Working Memory",
+    "Short Term Memory/Working Memory",
     "Phonological Loop.md",
     "image alz.png.md",
     "Images",
