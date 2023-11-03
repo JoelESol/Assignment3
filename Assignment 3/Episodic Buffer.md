@@ -1,0 +1,1 @@
+The episodic buffer does not exist in Baddeley's original model of working memory. It was added later to fill in unexplained results of failed experiments. The episodic buffer facilitates communication between short-term and long-term memory. It deals with retrieval from long-term to short-term and consolidation of memories from short-term to long-term memory.

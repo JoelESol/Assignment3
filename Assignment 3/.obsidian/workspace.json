@@ -11,8 +11,12 @@
             "id": "d1cffd7e8aa22215",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Short Term Memory/Short Term Memory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Short Term Memory/Short Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Short Term Memory/Short Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Short Term Memory/Short Term Memory.md"
+              }
             }
           }
         ],
@@ -141,35 +149,37 @@
   },
   "active": "d1cffd7e8aa22215",
   "lastOpenFiles": [
-    "Implicit Memory.md",
-    "Explicit Memory.md",
-    "External Aids.md",
-    "Working Memory.md",
-    "Memory.md",
+    "Consolidation.md",
     "Long Term Memory.md",
     "Mnemonics.md",
     "Nootropics.md",
     "Parts of the Brain used for Memory.md",
-    "Short Term Memory/Rehearsal.md",
-    "Short Term Memory/Mnemonics.md",
-    "Recovery.md",
-    "Phonological Loop.md",
-    "Short Term Memory/Short Term Memory.md",
-    "Pasted image 20231102160142.png",
-    "Encoding.md",
-    "Reconsolidation.md",
-    "Piracetam.md",
     "Pasted image 20231101151033.png",
-    "Consolidation.md",
-    "Caffeine.md",
+    "Pasted image 20231102160142.png",
+    "Piracetam.md",
+    "Reconsolidation.md",
+    "Recovery.md",
+    "External Aids.md",
+    "Memory.md",
+    "Working Memory",
+    "Short Term Memory/Short Term Memory.md",
+    "Working Memory/Working Memory.md",
+    "Working Memory/Working Memory Model.jpg",
+    "Episodic Buffer.md",
+    "Working Memory/Central Executive.md",
+    "Working Memory/Visuospatial Sketchpad.md",
+    "Working Memory/Phonological Loop.md",
     "Alzheimer's Research & Therapy.md",
-    "Reflections/Reflections.md",
+    "Caffeine.md",
+    "Encoding.md",
+    "Explicit Memory.md",
+    "Implicit Memory.md",
+    "central executive.md",
+    "Short Term Memory/Rehearsal.md",
     "Short Term Memory/Method of Loci.jpg",
     "Short Term Memory/Chunking.md",
+    "Short Term Memory/Mnemonics.md",
     "Short Term Memory",
-    "Parts of the Brain.md",
-    "Reflections/Joel Sol V01012197.md",
-    "Reflections",
-    "Recall.md"
+    "Reflections"
   ]
 }

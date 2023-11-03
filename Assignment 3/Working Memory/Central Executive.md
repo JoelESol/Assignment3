@@ -1,0 +1,2 @@
+The central executive is known as the control center. It decides which information is to be processed and which parts of working memory is doing the processing ([[Phonological Loop]] or [[Visuospatial Sketchpad]]). An example of what the central executive does is when doing two conflicting activities, such as driving and talking to someone; The central executive should make you focus more on driving instead of the conversation.
+
