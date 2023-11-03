@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7768fee816111d6",
+        "id": "9bdee5948046a364",
         "type": "tabs",
         "children": [
           {
-            "id": "d1cffd7e8aa22215",
+            "id": "139a6c210eb0603d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working Memory/Central Executive.md",
+                "file": "Recovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working Memory/Central Executive.md",
+                "file": "Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working Memory/Central Executive.md",
+                "file": "Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working Memory/Central Executive.md"
+                "file": "Recovery.md"
               }
             }
           }
@@ -147,42 +147,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1cffd7e8aa22215",
+  "active": "139a6c210eb0603d",
   "lastOpenFiles": [
-    "Working Memory/Phonological Loop.md",
-    "Working Memory/Visuospatial Sketchpad.md",
     "Working Memory/Working Memory.md",
-    "Working Memory/Central Executive.md",
     "Working Memory/Working Memory Model.jpg",
-    "Consolidation.md",
-    "Short Term Memory/Short Term Memory.md",
-    "Images/alz.png",
-    "Images/Pasted image 20231102160142.png",
-    "Images/Pasted image 20231101151033.png",
-    "Images",
-    "Long Term Memory.md",
-    "Mnemonics.md",
-    "Nootropics.md",
-    "Parts of the Brain used for Memory.md",
-    "Pasted image 20231101151033.png",
-    "Pasted image 20231102160142.png",
-    "Piracetam.md",
-    "Reconsolidation.md",
     "Recovery.md",
-    "External Aids.md",
-    "Memory.md",
+    "Working Memory/Visuospatial Sketchpad.md",
+    "Working Memory/Phonological Loop.md",
+    "Working Memory/Central Executive.md",
     "Working Memory",
     "Episodic Buffer.md",
+    "Reconsolidation.md",
+    "Parts of the Brain used for Memory.md",
+    "Phonological Loop.md",
+    "Piracetam.md",
+    "Nootropics.md",
     "Alzheimer's Research & Therapy.md",
-    "Caffeine.md",
-    "Encoding.md",
-    "Explicit Memory.md",
+    "Images/alz.png",
+    "image alz.png.md",
+    "Working Memory.md",
+    "Mnemonics.md",
+    "Memory.md",
+    "Long Term Memory.md",
     "Implicit Memory.md",
-    "central executive.md",
+    "Explicit Memory.md",
+    "Encoding.md",
+    "Images",
+    "Images/Pasted image 20231102160142.png",
+    "Images/Pasted image 20231101151033.png",
+    "External Aids.md",
+    "Consolidation.md",
+    "Caffeine.md",
     "Short Term Memory/Rehearsal.md",
-    "Short Term Memory/Method of Loci.jpg",
-    "Short Term Memory/Chunking.md",
     "Short Term Memory/Mnemonics.md",
+    "Short Term Memory/Method of Loci.jpg",
     "Short Term Memory",
     "Reflections"
   ]
