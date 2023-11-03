@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Short Term Memory/Short Term Memory.md",
+                "file": "Working Memory/Central Executive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short Term Memory/Short Term Memory.md",
+                "file": "Working Memory/Central Executive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short Term Memory/Short Term Memory.md",
+                "file": "Working Memory/Central Executive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short Term Memory/Short Term Memory.md"
+                "file": "Working Memory/Central Executive.md"
               }
             }
           }
@@ -149,11 +149,17 @@
   },
   "active": "d1cffd7e8aa22215",
   "lastOpenFiles": [
+    "Working Memory/Phonological Loop.md",
+    "Working Memory/Visuospatial Sketchpad.md",
+    "Working Memory/Working Memory.md",
+    "Working Memory/Central Executive.md",
+    "Working Memory/Working Memory Model.jpg",
+    "Consolidation.md",
+    "Short Term Memory/Short Term Memory.md",
     "Images/alz.png",
     "Images/Pasted image 20231102160142.png",
     "Images/Pasted image 20231101151033.png",
     "Images",
-    "Consolidation.md",
     "Long Term Memory.md",
     "Mnemonics.md",
     "Nootropics.md",
@@ -166,13 +172,7 @@
     "External Aids.md",
     "Memory.md",
     "Working Memory",
-    "Short Term Memory/Short Term Memory.md",
-    "Working Memory/Working Memory.md",
-    "Working Memory/Working Memory Model.jpg",
     "Episodic Buffer.md",
-    "Working Memory/Central Executive.md",
-    "Working Memory/Visuospatial Sketchpad.md",
-    "Working Memory/Phonological Loop.md",
     "Alzheimer's Research & Therapy.md",
     "Caffeine.md",
     "Encoding.md",
