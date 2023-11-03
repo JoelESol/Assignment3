@@ -2,15 +2,7 @@ Short-term memory, also known as primary or active memory, refers to the cogniti
 
 Short-term memory is often associated with [[Working Memory]]. However, working memory refers more to the manipulation of information in short-term memory, usually during decision making, or problem solving, and has a larger expanded model as proposed by Baddeley.
 
-### Consolidation
-Below are some systems to improve memory retention or transfer of memory from short-term to long-term:
-- [[Rehearsal]]
-- [[Chunking]]
-- [[Mnemonics]]
-	- Acronyms
-	- Rhymes
-	- Method of Loci
-
+To assist short-term memory there are some techniques to transfer information to long-term through [[Consolidation]]
 #### References
 - Aben, B., Stapert, S., & Blokland, A. (2012). About the distinction between working memory and short-term memory. _Frontiers in Psychology_, _3_. https://doi.org/10.3389/fpsyg.2012.00301
 - Kendra Cherry, Mse. (2023, May 9). _How short-term memory works_. Verywell Mind. https://www.verywellmind.com/what-is-short-term-memory-2795348
